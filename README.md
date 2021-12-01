@@ -1,4 +1,3 @@
 # Secret santa
 
-Legacy script I used to send the secret santa invitations bach in engineering
-school
+Legacy script I used to send the secret Santa invitations back in engineering school
